@@ -22,5 +22,14 @@
 - **P3: 07/12/2024**
 
 # AULA 01 - 10/08/2023
+**Aula 1: Conceitos Básicos**
+- Teoria:
+  - Introdução ao curso
+  - Definição de dados e informações
+  - Tipos de dados (estruturados, semi-estruturados, não-estruturados)
+  - Importância da análise de dados
+- Prática:
+  - Instalação e configuração do Google Colab
+  - Carregamento de datasets básicos no Colab
 
 # AULA 02 - 17/08/2023
